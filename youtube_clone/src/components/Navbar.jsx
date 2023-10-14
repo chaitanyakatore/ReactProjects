@@ -20,7 +20,7 @@ const Navbar = () => (
       <img src={logo} alt="logo" height={45} />
     </Link>
     <Typography sx={{ color: "white", fontWeight: "bold" }}>
-      YOUTUBE_CLONE.com
+      YOUTUBE CLONE.COM
     </Typography>
     <SearchBar />
   </Stack>
